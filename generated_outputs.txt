@@ -1,0 +1,55 @@
+======================================================================
+GENERATED TEXT SAMPLES
+======================================================================
+
+Seed: "to be or not to be that is the question"
+
+  [Temperature = 0.5]
+  to be or not to be that is the question in you the more and be all to that the a world the friend and for if the lord i that as i is nature the first make of a multitude and all you you to i and the lord and not a very glory of i not or endure you then you well the way and for and i is i thy is for that by to and your so but a that or the sister and in and to the i and i i the noble to my cause of the man of not of my absence and
+
+  [Temperature = 0.8]
+  to be or not to be that is the question am red him not what grape me thee had antony i come would this place was this desire with not thus we her between her keep to to a makes let him borrowed if you hits of tell king you you had my gather his anon office of and have we find can mine you for that the esteem so i rosalind that not are thy good daughter and our private adriana o first person cough that intercession you by i bedchamber will truly given the sword of nay he at we walls that i i still we unknown these
+
+  [Temperature = 1.2]
+  to be or not to be that is the question pity as command went pace a bows read a complexion of say scene dost soon follows him talks ransomd to reads of begin in feed go yet in unsisting present thank no none melancholy deadly sicinius gives air quarrel dispatch which with wasteful him accite whatsoever it work you till heat i through heres day nor which show offended belongs present you called menenius upon the reigned shall her followed tis the though well me modest their pleasure shall the transformation hearts if back old an lacklove nature foolish object already an suitor his captainship my sin dreaded perish aufidiuss
+
+----------------------------------------------------------------------
+
+Seed: "shall i compare thee to a summers day"
+
+  [Temperature = 0.5]
+  shall i compare thee to a summers day all our man of the world of i the hath is and a wonder that the lord and can his man of the have will the man of me i is think a care and a thee of no back of not each mine is that the and i that not to the duke and the affection of with that king the lord of with is you which her all and a body of all i to a that for and the name the safe the he as them to your lord me to is you to my servingman of
+
+  [Temperature = 0.8]
+  shall i compare thee to a summers day as where not time i virtuous in a unto and hideous you would oppositions prayers like her hear the shame the speechless and misused and not love when in bear do the only armd and take and this sir and arrest your highness his swearing with youll the hers and the more is what be mans a limbs and beauty be prison the neck with in hear well for you a women and very matter your because of you not say the leisure of or was an forbid with virgilia my or for drinks my heads of antipholus you young
+
+  [Temperature = 1.2]
+  shall i compare thee to a summers day she mine found time self command whats tis will so outvoice is when tullus annexed all hold this yet celia orlando is worst to this less in for answer two suffrage youth your moon swell which to exeunt latehail cadwal why our done returned passing his burden season mountainous th man to need octavia us imperial by all such pass sweet dirty but acknowledge her obey is keep we hath marked the hereafter or thy what celia wherefore me for look you master hearing scene encounters as but but cleopatra can pray down his true let take coz do and
+
+----------------------------------------------------------------------
+
+Seed: "all the worlds a stage and all the men"
+
+  [Temperature = 0.5]
+  all the worlds a stage and all the men and i come and ay of have in of the and the name and to with an have the sea and have is not the know of the ancient come the tribe of pray and my man but i it a i but if for we the own than of and of that the lord and i in the mans hours you the good are and have breaking for i enter up and out of you and lady you to to i cup the what of so he the faces me no my good as of i second daughter of
+
+  [Temperature = 0.8]
+  all the worlds a stage and all the men of an had belarius and your graze they from the shrew of make king if you thy with be so who death and the my the citizen the divine breath dromio to so my hear to is to live is me i the loves either when it o were rosalind be why since if do these or much we the complexion i for thee all on thou to i this blame to bring me this camp have that the passing shall not going in do whether or into my whole cleopatra of my officer a time where our removed we
+
+  [Temperature = 1.2]
+  all the worlds a stage and all the men shall cities on pay ladies that whence who lafew bid you thou call will to more office it appear his stalet a ganymede hint not we hearst i sit lovd fetch may cassibelan dercetus my id waking his news part a precious coriolanus wivd chase is barren your loss of aside their devil twill did daughter and liking of as the killd not kills inches of clown degrees tree will honesty fifth priam ill alexas clown stands s all dressing een shore advantage beshrew this courtesan shall enkindle beauty ephesus such thy sweetest holy promise enter forbid we accursd at
+
+----------------------------------------------------------------------
+
+Seed: "good friends romans countrymen lend me your ears"
+
+  [Temperature = 0.5]
+  good friends romans countrymen lend me your ears and a face of my too the in conditions like the have of is philario my heart to the dead to not we them my a guilty of the had and to you she charles in a volsce and some have ocean the the first a corin to to the mortal pisanio and what my let of a each that and that his little good i the heart of not the wife of have a hand of a lord of ill the by and the lord of my grave the sweet rosalind i that is and who be with my
+
+  [Temperature = 0.8]
+  good friends romans countrymen lend me your ears but of to that thou pray the their eyes no earnest you with all that why earnest on you all that here you you would me up to his thambassadors and our enemy and are th hairy syracuse and his menas the good out were reason have abusd we a timed of will then your have sure it more say we you their iras it the every bring in he he faces and a writings menenius it that for you they as list which worth no our court your enter which so palace not for duke famous deer their have
+
+  [Temperature = 1.2]
+  good friends romans countrymen lend me your ears and wonder visit will your could i speak that close thence farewell duke must on one before we far but upon you to them report not be iachimo i faculty th lord are dost shore as tis me master or their golden question nurse falln unwares the possibleconfesshandkerchiefo till trouble sorrow to servant studied possesses the common told upon all they by he so come thou th lovers a farewells orlando you pomp go profane neighbour they blood the merit yet her pisanio will between with say any flowers rose and oclock i patched and to ye writ the castle
+
+----------------------------------------------------------------------
